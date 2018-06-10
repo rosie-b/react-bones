@@ -1,29 +1,63 @@
 {
-  "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/client/components/App.jsx": {
+  "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/client/components/AnotherComponent.jsx": {
     "path":
-      "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/client/components/App.jsx",
+      "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/client/components/AnotherComponent.jsx",
     "statementMap": {
       "0": {
-        "start": { "line": 3, "column": 12 },
-        "end": { "line": 7, "column": 1 }
+        "start": { "line": 3, "column": 25 },
+        "end": { "line": 11, "column": 1 }
       },
       "1": {
         "start": { "line": 4, "column": 2 },
-        "end": { "line": 6, "column": 3 }
+        "end": { "line": 10, "column": 4 }
       }
     },
     "fnMap": {
       "0": {
         "name": "(anonymous_0)",
         "decl": {
-          "start": { "line": 3, "column": 12 },
-          "end": { "line": 3, "column": 13 }
+          "start": { "line": 3, "column": 25 },
+          "end": { "line": 3, "column": 26 }
         },
         "loc": {
-          "start": { "line": 3, "column": 18 },
-          "end": { "line": 7, "column": 1 }
+          "start": { "line": 3, "column": 31 },
+          "end": { "line": 11, "column": 1 }
         },
         "line": 3
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 0 },
+    "f": { "0": 0 },
+    "b": {},
+    "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
+    "hash": "8c1ebf4cf6e4fbe222d8401f86c9d24fa038644e"
+  },
+  "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/client/components/App.jsx": {
+    "path":
+      "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/client/components/App.jsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 4, "column": 12 },
+        "end": { "line": 13, "column": 1 }
+      },
+      "1": {
+        "start": { "line": 5, "column": 2 },
+        "end": { "line": 12, "column": 4 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 4, "column": 12 },
+          "end": { "line": 4, "column": 13 }
+        },
+        "loc": {
+          "start": { "line": 4, "column": 18 },
+          "end": { "line": 13, "column": 1 }
+        },
+        "line": 4
       }
     },
     "branchMap": {},
@@ -31,7 +65,7 @@
     "f": { "0": 1 },
     "b": {},
     "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
-    "hash": "8f19d27eb673b864c8be6fe36a8a43d5940ef8a6"
+    "hash": "671e9ddfd602fdf60d02f4f445a434d95e46d8e4"
   },
   "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/tests/setup.js": {
     "path":
@@ -39,7 +73,7 @@
     "statementMap": {
       "0": {
         "start": { "line": 5, "column": 0 },
-        "end": { "line": 5, "column": 37 }
+        "end": { "line": 5, "column": 38 }
       }
     },
     "fnMap": {},
@@ -48,6 +82,6 @@
     "f": {},
     "b": {},
     "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
-    "hash": "43fc19e4801834e9320957d23403fc48d71cb701"
+    "hash": "bff55b6c3ad39e1d29e666261b798055ff656088"
   }
 }
