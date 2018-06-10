@@ -15,9 +15,8 @@ Navigate to the folder and run yarn
 ```
 cd [...local-directory...]/react-bones
 yarn
-
-To view, run yarn start and open browser to [localhost:3000](localhost:3000)
 ```
+To view, run yarn start and open browser to [localhost:3000](localhost:3000)
 
 yarn dev
 
