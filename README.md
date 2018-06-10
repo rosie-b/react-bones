@@ -4,21 +4,14 @@ Basic set up to be able to build on for other projects or learnings opportunitie
 
 ## Set up:
 
-Clone the repo
+* Clone the repo
+* Navigate to the folder and run ```yarn```
+* To view, run ```yarn dev``` and open browser to [http://localhost:3000](http://localhost:3000)
 
 ```
 git clone https://github.com/rosie-b/react-bones.git
-```
-
-Navigate to the folder and run yarn
-
-```
-cd [...local-directory...]/react-bones
+cd react-bones
 yarn
-```
-
-To view, run yarn start and open browser to [http://localhost:3000](http://localhost:3000)
-```
 yarn dev
 ```
 
