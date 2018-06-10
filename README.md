@@ -1,6 +1,6 @@
 ## React / Webpack / Babel / Express
 
-Basic set up to be able to build on for other projects or learnings opportunities.
+Basic set up to be able to build on for other projects or learning opportunities.
 
 ## Set up:
 
