@@ -1,0 +1,53 @@
+{
+  "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/client/components/App.jsx": {
+    "path":
+      "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/client/components/App.jsx",
+    "statementMap": {
+      "0": {
+        "start": { "line": 3, "column": 12 },
+        "end": { "line": 7, "column": 1 }
+      },
+      "1": {
+        "start": { "line": 4, "column": 2 },
+        "end": { "line": 6, "column": 3 }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": { "line": 3, "column": 12 },
+          "end": { "line": 3, "column": 13 }
+        },
+        "loc": {
+          "start": { "line": 3, "column": 18 },
+          "end": { "line": 7, "column": 1 }
+        },
+        "line": 3
+      }
+    },
+    "branchMap": {},
+    "s": { "0": 1, "1": 1 },
+    "f": { "0": 1 },
+    "b": {},
+    "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
+    "hash": "8f19d27eb673b864c8be6fe36a8a43d5940ef8a6"
+  },
+  "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/tests/setup.js": {
+    "path":
+      "/Users/x/Documents/rosie-bootcamp/workspace/react-bones/tests/setup.js",
+    "statementMap": {
+      "0": {
+        "start": { "line": 5, "column": 0 },
+        "end": { "line": 5, "column": 37 }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": { "0": 1 },
+    "f": {},
+    "b": {},
+    "_coverageSchema": "332fd63041d2c1bcb487cc26dd0d5f7d97098a6c",
+    "hash": "43fc19e4801834e9320957d23403fc48d71cb701"
+  }
+}

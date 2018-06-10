@@ -1,0 +1,47 @@
+{
+  "name": "react-bones",
+  "version": "1.0.0",
+  "description": "Basic set up to be able to build on for other projects or learnings opportunities. Uses ReactJS, Webpack, Babel on a minimal Express server.",
+  "main": "index.js",
+  "repository": "https://github.com/rosie-b/react-bones.git",
+  "author": "Rosie Burkett",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "webpack && node server",
+    "dev": "node server & webpack --watch",
+    "test": "jest --watchAll --noStackTrace",
+    "precommit": "pretty-quick --staged"
+  },
+  "jest": {
+    "collectCoverage": true,
+    "setupFiles": [
+      "./tests/setup.js"
+    ]
+  },
+  "devDependencies": {
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "husky": "^0.14.3",
+    "jest": "^23.1.0",
+    "prettier": "1.13.5",
+    "pretty-quick": "^1.6.0",
+    "react-test-renderer": "^16.4.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "express": "^4.16.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  }
+}

@@ -1,0 +1,26 @@
+/* Mobile first queries */
+
+body {
+  background-color: #ffffff;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 1rem;
+  margin: auto;
+}
+
+/* Larger than mobile */
+@media (min-width: 400px) {
+  /* use for style changes on larger screen */
+}
+
+/* Larger than phablet */
+@media (min-width: 550px) {
+  /* use for style changes on larger screen */
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+  /* use for style changes on larger screen */
+}
